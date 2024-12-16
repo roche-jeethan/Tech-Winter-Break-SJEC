@@ -26,13 +26,13 @@ Highlight anything unique or noteworthy.
 Provide clear steps to install and set up the project locally:
 
 # Clone the repository
-git clone https://github.com/yourusername/yourproject.git
+```git clone https://github.com/yourusername/yourproject.git```
 
 # Navigate to the project directory
-cd yourproject
+```cd yourproject```
 
 # Install dependencies
-<add your installation steps here>
+```<add your installation steps here>```
 
 📖 Usage
 
@@ -48,11 +48,14 @@ Contributions are welcome! To get started:
 
 Fork the repository.
 
-Create a new branch: git checkout -b feature/your-feature-name.
+Create a new branch: 
+```git checkout -b feature/your-feature-name.```
 
-Commit your changes: git commit -m 'Add some feature'.
+Commit your changes: 
+```git commit -m 'Add some feature'.```
 
-Push to your branch: git push origin feature/your-feature-name.
+Push to your branch: 
+```git push origin feature/your-feature-name.```
 
 Open a Pull Request.
 
@@ -72,7 +75,7 @@ This helps us improve the project for everyone.
 
 Explain how users can run tests, if applicable:
 
-<add test commands>
+```<add test commands>```
 
 🌟 Acknowledgments
 
@@ -83,14 +86,4 @@ Give credit where it’s due.
 📜 License
 
 This project is licensed under the MIT License.
-
-📫 Contact
-
-Feel free to reach out with any questions or feedback:
-
-Email: your.email@example.com
-
-GitHub Issues: Create an Issue
-
-If you like this project, give it a ⭐ on GitHub!
 
