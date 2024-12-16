@@ -21,28 +21,7 @@ List the main features of the project.
 
 Highlight anything unique or noteworthy.
 
-🛠️ Installation
-
-Provide clear steps to install and set up the project locally:
-
-# Clone the repository
-```git clone https://github.com/yourusername/yourproject.git```
-
-# Navigate to the project directory
-```cd yourproject```
-
-# Install dependencies
-```<add your installation steps here>```
-
-📖 Usage
-
-Provide examples or instructions on how to use the project:
-
-<add example usage commands or snippets>
-
-Explain what users can achieve and link to more detailed documentation (if available).
-
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions are welcome! To get started:
 
@@ -70,6 +49,29 @@ The steps you followed.
 Any error messages or unexpected behaviors.
 
 This helps us improve the project for everyone.
+
+🛠️ Installation
+
+Provide clear steps to install and set up the project locally:
+
+# Clone the repository
+```git clone https://github.com/yourusername/yourproject.git```
+
+# Navigate to the project directory
+```cd yourproject```
+
+# Install dependencies
+```<add your installation steps here>```
+
+📖 Usage
+
+Provide examples or instructions on how to use the project:
+
+<add example usage commands or snippets>
+
+Explain what users can achieve and link to more detailed documentation (if available).
+
+
 
 🧪 Testing
 
