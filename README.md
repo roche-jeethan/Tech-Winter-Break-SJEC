@@ -25,6 +25,8 @@ Highlight anything unique or noteworthy.
 
 Contributions are welcome! To get started:
 
+Keep a README file with a YouTube link to showcase your project.
+
 Fork the repository.
 
 Create a new branch: 
